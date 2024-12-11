@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="BOHDANVIVCHAR_MSSQLSERVER1.Tenant"
+  DTS:DTSID="{81F4DDFD-A069-486C-A72B-FDCE8FCFBE62}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=BOHDANVIVCHAR\MSSQLSERVER1;Initial Catalog=Tenant;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-DbKyrsova_SSIS-{81F4DDFD-A069-486C-A72B-FDCE8FCFBE62}BOHDANVIVCHAR\MSSQLSERVER1.Tenant;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
